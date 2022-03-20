@@ -507,6 +507,7 @@ h6 {
         border-radius: 0px;
         padding: 0px;
         text-align: center;
+        ;
     }
 
         .card .thumbnail .caption {
@@ -525,7 +526,7 @@ h6 {
             .card .thumbnail .caption p {
                 font-weight: normal;
                 font-size: 0.8rem;
-                color: #FFFFFF;
+                color: white;
             }
 
             .card .thumbnail .caption .btn-card {
@@ -540,6 +541,7 @@ h6 {
                 transition: 0.5s ease;
                 border-radius: 0px;
             }
+
 
                 .card .thumbnail .caption .btn-card:hover {
                     background-color: rgba(255, 255, 255, 0.1);
@@ -561,7 +563,7 @@ a:hover {
 }
 
 .section-padding {
-    padding: 60px 0;
+    padding: 40px 0;
 }
 
 .bottom {

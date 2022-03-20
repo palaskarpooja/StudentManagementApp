@@ -22,7 +22,7 @@ namespace StudentManagementApp.Controllers
         {
             return View();
         }
-
+        
         public IActionResult Privacy()
         {
             return View();
